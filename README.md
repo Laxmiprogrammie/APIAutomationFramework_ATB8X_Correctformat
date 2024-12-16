@@ -1,26 +1,30 @@
-![image](https://github.com/user-attachments/assets/4dc9ac8f-e276-414c-8847-a4739f3226b9)API Automation RestAssured (in Java)
+API Automation RestAssured (in Java)
 Author - Pramod Dutta
 API Automation Framework with the CRUD of Restful Booker
 
 mvn test -Dsurefire.suiteXmlFiles=testng.xml
 
+![image](https://github.com/user-attachments/assets/bc42eebd-ff84-4ed1-8b12-f0ea1fe35cfe)
 
-Screenshot 2023-10-31 at 12 25 55 PM
-Tech Stack
-Java ( JDK > 21)
-Rest Assured
-Apache POI, TestNG, Maven.
-AssertJ (Advance assertions)
-Jackson and GSON
-Log4j
-Allure Report
-Full Folder Structure(Hybrid) Framework.
-Jenkins File
+
+Technology Stack
+1.Java ( JDK > 21)
+2.Rest Assured
+3.Apache POI, TestNG, Maven.
+4.AssertJ (Advance assertions)
+5.Jackson and GSON
+6.Log4j
+7.Allure Report
+8.Full Folder Structure(Hybrid) Framework.
+9.Jenkins File
 API Framework Important Components
-Screenshot 2024-06-29 at 12 44 29
+![image](https://github.com/user-attachments/assets/a791d462-e175-4a91-b70d-d121645863e2)
+
+
 
 Running via CI/CD
-Screenshot 2023-10-31 at 12 26 07 PM
+![image](https://github.com/user-attachments/assets/59c1480d-a063-4f1c-97b8-be8ead35e4ff)
+
 Run
 
 Basic Create Test
@@ -54,7 +58,8 @@ Integration Test (Create BookinG and Create Token , Update and Delete Booking)
 Allure Report Generated.
 allure serve allure-results/
 
-image
+![image](https://github.com/user-attachments/assets/f617a734-aa8a-4db6-bb5b-3f8e5c688971)
+
 
 Certainly! I'll guide you through the steps to install Allure and generate a report for a Java project using TestNG. Here's a step-by-step process:
 
